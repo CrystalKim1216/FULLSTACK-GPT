@@ -33,7 +33,7 @@ contourpy==1.1.1
 cryptography==41.0.4
 cycler==0.11.0
 cymem==2.0.8
-dataclasses-json>=0.6.0,<0.7.0
+dataclasses-json>=0.5.7,<0.6.0
 debugpy==1.8.0
 decorator==5.1.1
 dill==0.3.7
@@ -94,7 +94,7 @@ langcodes==3.3.0
 langsmith==0.0.52
 layoutparser==0.3.4
 loguru==0.7.2
-lxml==4.9.3
+# lxml==4.9.3
 manifest-ml==0.0.1
 Markdown==3.4.4
 markdown-it-py==3.0.0
